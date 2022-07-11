@@ -15,7 +15,7 @@
 		<div class="flex flex-col items-center">
 			<div class="header-slide w-full flex flex-row justify-between items-center">
 				<h1 class="text-xl font-bold">Login</h1>
-				<a href="#" class="text-xs text-blue-600">don't have account?</a>
+				<a href="register" class="text-xs text-blue-600">don't have account?</a>
 			</div>
 			<div class="header-slide w-full flex flex-row justify-between items-center">
 				<button type="button" class="h-6 w-6" onclick="slideBack()">
